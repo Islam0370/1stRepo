@@ -1,4 +1,4 @@
-console.log("Hello, Math!");
+
 Math.sqrt(16); // Returns the square root of 16
 Math.pow(2, 3); // Returns 2 raised to the power of 3
 Math.random(); // Returns a random number between 0 (inclusive) and 1 (exclusive)
